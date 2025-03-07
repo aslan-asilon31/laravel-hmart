@@ -9,7 +9,13 @@ use Illuminate\Support\Facades\Mail;
 use App\Http\Controllers\ProductCartController;
 
 
-Route::get('/', \App\Livewire\Pages\Visitor\HomeResources\HomeList::class)->name('home');
+
+Route::get('/',function(){
+    return view('welcome');
+});
+
+
+// Route::get('/', \App\Livewire\Pages\Visitor\HomeResources\HomeList::class)->name('home');
 // Route::get('/home/show/{id}', \App\Livewire\Pages\Visitor\HomeResources\HomeProductDetail::class)->name('home-product-detail');
 Route::get('/kontak', \App\Livewire\Pages\Visitor\KontakResources\KontakList::class)->name('kontak');
 Route::get('/kategori', \App\Livewire\Pages\Visitor\KategoriResources\KategoriList::class)->name('kategori');

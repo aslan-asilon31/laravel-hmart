@@ -54,7 +54,7 @@
                     <div class="row justify-content-between align-items-center">
                         <div class="col-lg-3 col">
                             <div class="header-logo">
-                                <a href="index.html"><img src="{{ asset('frontend/') }}assets/images/logo/logo.png" alt="Site Logo" /></a>
+                                <a href="index.html"><img src="{{ asset('frontend/assets/images/logo/logo.png') }}" alt="Site Logo" /></a>
                             </div>
                         </div>
                         <div class="col-lg-6 d-none d-lg-block">
@@ -92,7 +92,7 @@
                     <div class="row justify-content-between align-items-center">
                         <div class="col-lg-3 col">
                             <div class="header-logo">
-                                <a href="index.html"><img src="{{ asset('frontend/') }}assets/images/logo/logo.png" alt="Site Logo" /></a>
+                                <a href="index.html"><img src="{{ asset('frontend/assets/images/logo/logo.png') }}" alt="Site Logo" /></a>
                             </div>
                         </div>
                         <div class="col-lg-6 d-none d-lg-block">
@@ -163,7 +163,7 @@
                                             </ul>
                                             <ul class="d-flex align-items-center p-0 border-0 flex-column justify-content-center">
                                                 <li>
-                                                    <a class="p-0" href="shop-left-sidebar.html"><img class="img-responsive w-100" src="{{ asset('frontend/') }}assets/images/banner/menu-banner.png" alt=""></a>
+                                                    <a class="p-0" href="shop-left-sidebar.html"><img class="img-responsive w-100" src="{{ asset('frontend/assets/images/banner/menu-banner.png') }}" alt=""></a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -279,7 +279,7 @@
                 <div class="body customScroll">
                     <ul class="minicart-product-list">
                         <li>
-                            <a href="single-product.html" class="image"><img src="{{ asset('frontend/') }}assets/images/product-image/1.webp" alt="Cart product Image"></a>
+                            <a href="single-product.html" class="image"><img src="{{ asset('frontend/assets/images/product-image/1.webp') }}" alt="Cart product Image"></a>
                             <div class="content">
                                 <a href="single-product.html" class="title">Modern Smart Phone</a>
                                 <span class="quantity-price">1 x <span class="amount">$21.86</span></span>
@@ -287,7 +287,7 @@
                             </div>
                         </li>
                         <li>
-                            <a href="single-product.html" class="image"><img src="{{ asset('frontend/') }}assets/images/product-image/2.webp" alt="Cart product Image"></a>
+                            <a href="single-product.html" class="image"><img src="{{ asset('frontend/assets/images/product-image/2.webp') }}" alt="Cart product Image"></a>
                             <div class="content">
                                 <a href="single-product.html" class="title">Bluetooth Headphone</a>
                                 <span class="quantity-price">1 x <span class="amount">$13.28</span></span>
@@ -295,7 +295,7 @@
                             </div>
                         </li>
                         <li>
-                            <a href="single-product.html" class="image"><img src="{{ asset('frontend/') }}assets/images/product-image/3.webp" alt="Cart product Image"></a>
+                            <a href="single-product.html" class="image"><img src="{{ asset('frontend/assets/images/product-image/3.webp') }}" alt="Cart product Image"></a>
                             <div class="content">
                                 <a href="single-product.html" class="title">Smart Music Box</a>
                                 <span class="quantity-price">1 x <span class="amount">$17.34</span></span>
@@ -322,7 +322,7 @@
                 <div class="body customScroll">
                     <ul class="minicart-product-list">
                         <li>
-                            <a href="single-product.html" class="image"><img src="{{ asset('frontend/') }}assets/images/product-image/1.webp" alt="Cart product Image"></a>
+                            <a href="single-product.html" class="image"><img src="{{ asset('frontend/assets/images/product-image/1.webp') }}" alt="Cart product Image"></a>
                             <div class="content">
                                 <a href="single-product.html" class="title">Modern Smart Phone</a>
                                 <span class="quantity-price">1 x <span class="amount">$18.86</span></span>
@@ -330,7 +330,7 @@
                             </div>
                         </li>
                         <li>
-                            <a href="single-product.html" class="image"><img src="{{ asset('frontend/') }}assets/images/product-image/2.webp" alt="Cart product Image"></a>
+                            <a href="single-product.html" class="image"><img src="{{ asset('frontend/assets/images/product-image/2.webp') }}" alt="Cart product Image"></a>
                             <div class="content">
                                 <a href="single-product.html" class="title">Bluetooth Headphone</a>
                                 <span class="quantity-price">1 x <span class="amount">$43.28</span></span>
@@ -338,7 +338,7 @@
                             </div>
                         </li>
                         <li>
-                            <a href="single-product.html" class="image"><img src="{{ asset('frontend/') }}assets/images/product-image/3.webp" alt="Cart product Image"></a>
+                            <a href="single-product.html" class="image"><img src="{{ asset('frontend/assets/images/product-image/3.webp') }}" alt="Cart product Image"></a>
                             <div class="content">
                                 <a href="single-product.html" class="title">Smart Music Box</a>
                                 <span class="quantity-price">1 x <span class="amount">$37.34</span></span>
@@ -518,7 +518,7 @@
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 d-flex justify-content-center position-relative align-items-center">
                                     <div class="show-case">
                                         <div class="hero-slide-image slider-2">
-                                            <img src="{{ asset('frontend/') }}assets/images/hero/inner-img/hero-2-1.png" alt="" />
+                                            <img src="{{ asset('frontend/assets/images/hero/inner-img/hero-2-1.png') }}" alt="" />
                                         </div>
                                     </div>
                                 </div>
@@ -543,7 +543,7 @@
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 d-flex justify-content-center position-relative align-items-center">
                                     <div class="show-case">
                                         <div class="hero-slide-image slider-2">
-                                            <img src="{{ asset('frontend/') }}assets/images/hero/inner-img/hero-2-1.png" alt="" />
+                                            <img src="{{ asset('frontend/assets/images/hero/inner-img/hero-2-1.png') }}" alt="" />
                                         </div>
                                     </div>
                                 </div>
@@ -567,7 +567,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="single-banner nth-child-2 mb-lm-30px">
-                            <img src="{{ asset('frontend/') }}assets/images/banner/6.webp" alt="">
+                            <img src="{{ asset('frontend/assets/images/banner/6.webp') }}" alt="">
                             <div class="banner-content nth-child-3">
                                 <h3 class="title">Speaker</h3>
                                 <span class="category">From $69.00</span>
@@ -577,7 +577,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="single-banner nth-child-2">
-                            <img src="{{ asset('frontend/') }}assets/images/banner/7.webp" alt="">
+                            <img src="{{ asset('frontend/assets/images/banner/7.webp') }}" alt="">
                             <div class="banner-content nth-child-2">
                                 <h3 class="title">Smartphone</h3>
                                 <span class="category">From $95.00</span>
@@ -613,8 +613,8 @@
                                     </span>
                                     <div class="thumb">
                                         <a href="single-product.html" class="image">
-                                            <img src="{{ asset('frontend/') }}assets/images/product-image/1.webp" alt="Product" />
-                                            <img class="hover-image" src="{{ asset('frontend/') }}assets/images/product-image/1.webp" alt="Product" />
+                                            <img src="{{ asset('frontend/assets/images/product-image/1.webp') }}" alt="Product" />
+                                            <img class="hover-image" src="{{ asset('frontend/assets/images/product-image/1.webp') }}" alt="Product" />
                                         </a>
                                     </div>
                                     <div class="content">
@@ -646,8 +646,8 @@
                                     </span>
                                     <div class="thumb">
                                         <a href="single-product.html" class="image">
-                                            <img src="{{ asset('frontend/') }}assets/images/product-image/2.webp" alt="Product" />
-                                            <img class="hover-image" src="{{ asset('frontend/') }}assets/images/product-image/2.webp" alt="Product" />
+                                            <img src="{{ asset('frontend/assets/images/product-image/2.webp') }}" alt="Product" />
+                                            <img class="hover-image" src="{{ asset('frontend/assets/images/product-image/2.webp') }}" alt="Product" />
                                         </a>
                                     </div>
                                     <div class="content">
@@ -679,8 +679,8 @@
                                     </span>
                                     <div class="thumb">
                                         <a href="single-product.html" class="image">
-                                            <img src="{{ asset('frontend/') }}assets/images/product-image/3.webp" alt="Product" />
-                                            <img class="hover-image" src="{{ asset('frontend/') }}assets/images/product-image/3.webp" alt="Product" />
+                                            <img src="{{ asset('frontend/assets/images/product-image/3.webp') }}" alt="Product" />
+                                            <img class="hover-image" src="{{ asset('frontend/assets/images/product-image/3.webp') }}" alt="Product" />
                                         </a>
                                     </div>
                                     <div class="content">
@@ -711,8 +711,8 @@
                                     </span>
                                     <div class="thumb">
                                         <a href="single-product.html" class="image">
-                                            <img src="{{ asset('frontend/') }}assets/images/product-image/4.webp" alt="Product" />
-                                            <img class="hover-image" src="{{ asset('frontend/') }}assets/images/product-image/1.webp" alt="Product" />
+                                            <img src="{{ asset('frontend/assets/images/product-image/4.webp') }}" alt="Product" />
+                                            <img class="hover-image" src="{{ asset('frontend/assets/images/product-image/1.webp') }}" alt="Product" />
                                         </a>
                                     </div>
                                     <div class="content">
@@ -742,8 +742,8 @@
                                     </span>
                                     <div class="thumb">
                                         <a href="single-product.html" class="image">
-                                            <img src="{{ asset('frontend/') }}assets/images/product-image/5.webp" alt="Product" />
-                                            <img class="hover-image" src="{{ asset('frontend/') }}assets/images/product-image/5.webp" alt="Product" />
+                                            <img src="{{ asset('frontend/assets/images/product-image/5.webp') }}" alt="Product" />
+                                            <img class="hover-image" src="{{ asset('frontend/assets/images/product-image/5.webp') }}" alt="Product" />
                                         </a>
                                     </div>
                                     <div class="content">
@@ -775,8 +775,8 @@
                                     </span>
                                     <div class="thumb">
                                         <a href="single-product.html" class="image">
-                                            <img src="{{ asset('frontend/') }}assets/images/product-image/6.webp" alt="Product" />
-                                            <img class="hover-image" src="{{ asset('frontend/') }}assets/images/product-image/6.webp" alt="Product" />
+                                            <img src="{{ asset('frontend/assets/images/product-image/6.webp') }}" alt="Product" />
+                                            <img class="hover-image" src="{{ asset('frontend/assets/images/product-image/6.webp') }}" alt="Product" />
                                         </a>
                                     </div>
                                     <div class="content">
@@ -808,8 +808,8 @@
                                     </span>
                                     <div class="thumb">
                                         <a href="single-product.html" class="image">
-                                            <img src="{{ asset('frontend/') }}assets/images/product-image/7.webp" alt="Product" />
-                                            <img class="hover-image" src="{{ asset('frontend/') }}assets/images/product-image/1.webp" alt="Product" />
+                                            <img src="{{ asset('frontend/assets/images/product-image/7.webp') }}" alt="Product" />
+                                            <img class="hover-image" src="{{ asset('frontend/assets/images/product-image/1.webp') }}" alt="Product" />
                                         </a>
                                     </div>
                                     <div class="content">
@@ -840,8 +840,8 @@
                                     </span>
                                     <div class="thumb">
                                         <a href="single-product.html" class="image">
-                                            <img src="{{ asset('frontend/') }}assets/images/product-image/8.webp" alt="Product" />
-                                            <img class="hover-image" src="{{ asset('frontend/') }}assets/images/product-image/8.webp" alt="Product" />
+                                            <img src="{{ asset('frontend/assets/images/product-image/8.webp') }}" alt="Product" />
+                                            <img class="hover-image" src="{{ asset('frontend/assets/images/product-image/8.webp') }}" alt="Product" />
                                         </a>
                                     </div>
                                     <div class="content">
@@ -877,7 +877,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="single-banner mb-lm-30px">
-                            <img src="{{ asset('frontend/') }}assets/images/banner/8.webp" alt="">
+                            <img src="{{ asset('frontend/assets/images/banner/8.webp') }}" alt="">
                             <div class="banner-content nth-child-3">
                                 <h3 class="title">Smart Watch For <br>
                                         Your Hand</h3>
@@ -888,7 +888,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="single-banner">
-                            <img src="{{ asset('frontend/') }}assets/images/banner/9.webp" alt="">
+                            <img src="{{ asset('frontend/assets/images/banner/9.webp') }}" alt="">
                             <div class="banner-content nth-child-2">
                                 <h3 class="title">Smart Watch For <br>
                                         Your Hand</h3>
@@ -916,7 +916,7 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide feature-right-content">
                             <div class="image-side">
-                                <img src="{{ asset('frontend/') }}assets/images/feature-image/2.webp" alt="">
+                                <img src="{{ asset('frontend/assets/images/feature-image/2.webp') }}" alt="">
                                 <button title="Add To Cart" class="action add-to-cart" data-bs-toggle="modal" data-bs-target="#exampleModal-Cart"><i
                                     class="pe-7s-shopbag"></i></button>
                             </div>
@@ -944,7 +944,7 @@
                         </div>
                         <div class="swiper-slide feature-right-content">
                             <div class="image-side">
-                                <img src="{{ asset('frontend/') }}assets/images/feature-image/3.webp" alt="">
+                                <img src="{{ asset('frontend/assets/images/feature-image/3.webp') }}" alt="">
                                 <button title="Add To Cart" class="action add-to-cart" data-bs-toggle="modal" data-bs-target="#exampleModal-Cart"><i
                                     class="pe-7s-shopbag"></i></button>
                             </div>
@@ -972,7 +972,7 @@
                         </div>
                         <div class="swiper-slide feature-right-content">
                             <div class="image-side">
-                                <img src="{{ asset('frontend/') }}assets/images/feature-image/2.webp" alt="">
+                                <img src="{{ asset('frontend/assets/images/feature-image/2.webp') }}" alt="">
                                 <button title="Add To Cart" class="action add-to-cart" data-bs-toggle="modal" data-bs-target="#exampleModal-Cart"><i
                                     class="pe-7s-shopbag"></i></button>
                             </div>
@@ -1000,7 +1000,7 @@
                         </div>
                         <div class="swiper-slide feature-right-content">
                             <div class="image-side">
-                                <img src="{{ asset('frontend/') }}assets/images/feature-image/3.webp" alt="">
+                                <img src="{{ asset('frontend/assets/images/feature-image/3.webp') }}" alt="">
                                 <button title="Add To Cart" class="action add-to-cart" data-bs-toggle="modal" data-bs-target="#exampleModal-Cart"><i
                                     class="pe-7s-shopbag"></i></button>
                             </div>
@@ -1056,7 +1056,7 @@
                         <!-- single item -->
                         <div class="single-feature">
                             <div class="feature-icon">
-                                <img src="{{ asset('frontend/') }}assets/images/icons/1.png" alt="">
+                                <img src="{{ asset('frontend/assets/images/icons/1.png') }}" alt="">
                             </div>
                             <div class="feature-content">
                                 <h4 class="title">Free Shipping</h4>
@@ -1068,7 +1068,7 @@
                     <div class="single-feture-col mb-md-30px mb-lm-30px">
                         <div class="single-feature">
                             <div class="feature-icon">
-                                <img src="{{ asset('frontend/') }}assets/images/icons/2.png" alt="">
+                                <img src="{{ asset('frontend/assets/images/icons/2.png') }}" alt="">
                             </div>
                             <div class="feature-content">
                                 <h4 class="title">Card Payments</h4>
@@ -1080,7 +1080,7 @@
                     <div class="single-feture-col">
                         <div class="single-feature">
                             <div class="feature-icon">
-                                <img src="{{ asset('frontend/') }}assets/images/icons/3.png" alt="">
+                                <img src="{{ asset('frontend/assets/images/icons/3.png') }}" alt="">
                             </div>
                             <div class="feature-content">
                                 <h4 class="title">Easy Returns</h4>
@@ -1110,7 +1110,7 @@
                     <div class="col-lg-6 col-sm-6 mb-xs-30px">
                         <div class="single-blog">
                             <div class="blog-image">
-                                <a href="blog-single-left-sidebar.html"><img src="{{ asset('frontend/') }}assets/images/blog-image/1.webp" class="img-responsive w-100" alt=""></a>
+                                <a href="blog-single-left-sidebar.html"><img src="{{ asset('frontend/assets/images/blog-image/1.webp') }}" class="img-responsive w-100" alt=""></a>
                             </div>
                             <div class="blog-text">
                                 <div class="blog-athor-date line-height-1">
@@ -1127,7 +1127,7 @@
                     <div class="col-lg-6 col-sm-6">
                         <div class="single-blog">
                             <div class="blog-image">
-                                <a href="blog-single-left-sidebar.html"><img src="{{ asset('frontend/') }}assets/images/blog-image/2.webp" class="img-responsive w-100" alt=""></a>
+                                <a href="blog-single-left-sidebar.html"><img src="{{ asset('frontend/assets/images/blog-image/2.webp') }}" class="img-responsive w-100" alt=""></a>
                             </div>
                             <div class="blog-text">
                                 <div class="blog-athor-date line-height-1">
@@ -1155,7 +1155,7 @@
                             <div class="col-md-6 col-lg-3 mb-md-30px mb-lm-30px">
                                 <div class="single-wedge">
                                     <div class="footer-logo">
-                                        <a href="index.html"><img src="{{ asset('frontend/') }}assets/images/logo/footer-logo.png" alt=""></a>
+                                        <a href="index.html"><img src="{{ asset('frontend/assets/images/logo/footer-logo.png') }}" alt=""></a>
                                     </div>
                                     <p class="about-text">Lorem ipsum dolor sit amet consl adipisi elit, sed do eiusmod templ incididunt ut labore
                                     </p>
@@ -1239,7 +1239,7 @@
                         <div class="line-shape-top line-height-1">
                             <div class="row flex-md-row-reverse align-items-center">
                                 <div class="col-md-6 text-center text-md-end">
-                                    <div class="payment-mth"><a href="#"><img class="img img-fluid" src="{{ asset('frontend/') }}assets/images/icons/payment.png" alt="payment-image"></a></div>
+                                    <div class="payment-mth"><a href="#"><img class="img img-fluid" src="{{ asset('frontend/assets/images/icons/payment.png') }}" alt="payment-image"></a></div>
                                 </div>
                                 <div class="col-md-6 text-center text-md-start">
                                     <p class="copy-text"> © 2022 <strong>Hmart</strong> Made With <i class="fa fa-heart"
@@ -1266,38 +1266,38 @@
                             <div class="swiper-container gallery-top">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
-                                        <img class="img-responsive m-auto" src="{{ asset('frontend/') }}assets/images/product-image/zoom-image/1.webp" alt="">
+                                        <img class="img-responsive m-auto" src="{{ asset('frontend/assets/images/product-image/zoom-image/1.webp') }}" alt="">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img class="img-responsive m-auto" src="{{ asset('frontend/') }}assets/images/product-image/zoom-image/2.webp" alt="">
+                                        <img class="img-responsive m-auto" src="{{ asset('frontend/assets/images/product-image/zoom-image/2.webp') }}" alt="">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img class="img-responsive m-auto" src="{{ asset('frontend/') }}assets/images/product-image/zoom-image/3.webp" alt="">
+                                        <img class="img-responsive m-auto" src="{{ asset('frontend/assets/images/product-image/zoom-image/3.webp') }}" alt="">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img class="img-responsive m-auto" src="{{ asset('frontend/') }}assets/images/product-image/zoom-image/4.webp" alt="">
+                                        <img class="img-responsive m-auto" src="{{ asset('frontend/assets/images/product-image/zoom-image/4.webp') }}" alt="">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img class="img-responsive m-auto" src="{{ asset('frontend/') }}assets/images/product-image/zoom-image/5.webp" alt="">
+                                        <img class="img-responsive m-auto" src="{{ asset('frontend/assets/images/product-image/zoom-image/5.webp') }}" alt="">
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-container gallery-thumbs mt-20px slider-nav-style-1 small-nav">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
-                                        <img class="img-responsive m-auto" src="{{ asset('frontend/') }}assets/images/product-image/small-image/1.webp" alt="">
+                                        <img class="img-responsive m-auto" src="{{ asset('frontend/assets/images/product-image/small-image/1.webp') }}" alt="">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img class="img-responsive m-auto" src="{{ asset('frontend/') }}assets/images/product-image/small-image/2.webp" alt="">
+                                        <img class="img-responsive m-auto" src="{{ asset('frontend/assets/images/product-image/small-image/2.webp') }}" alt="">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img class="img-responsive m-auto" src="{{ asset('frontend/') }}assets/images/product-image/small-image/3.webp" alt="">
+                                        <img class="img-responsive m-auto" src="{{ asset('frontend/assets/images/product-image/small-image/3.webp') }}" alt="">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img class="img-responsive m-auto" src="{{ asset('frontend/') }}assets/images/product-image/small-image/4.webp" alt="">
+                                        <img class="img-responsive m-auto" src="{{ asset('frontend/assets/images/product-image/small-image/4.webp') }}" alt="">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img class="img-responsive m-auto" src="{{ asset('frontend/') }}assets/images/product-image/small-image/5.webp" alt="">
+                                        <img class="img-responsive m-auto" src="{{ asset('frontend/assets/images/product-image/small-image/5.webp') }}" alt="">
                                     </div>
                                 </div>
                                 <!-- Add Arrows -->
@@ -1369,7 +1369,7 @@
                                     </div>
                                 </div>
                                 <div class="payment-img">
-                                    <a href="#"><img src="{{ asset('frontend/') }}assets/images/icons/payment.png" alt=""></a>
+                                    <a href="#"><img src="{{ asset('frontend/assets/images/icons/payment.png') }}" alt=""></a>
                                 </div>
                             </div>
                         </div>
@@ -1390,7 +1390,7 @@
                     </div>
                     <div class="tt-modal-product">
                         <div class="tt-img">
-                            <img src="{{ asset('frontend/') }}assets/images/product-image/1.webp" alt="Modern Smart Phone">
+                            <img src="{{ asset('frontend/assets/images/product-image/1.webp') }}" alt="Modern Smart Phone">
                         </div>
                         <h2 class="tt-title"><a href="#">Modern Smart Phone</a></h2>
                     </div>
@@ -1409,7 +1409,7 @@
                     </div>
                     <div class="tt-modal-product">
                         <div class="tt-img">
-                            <img src="{{ asset('frontend/') }}assets/images/product-image/1.webp" alt="Modern Smart Phone">
+                            <img src="{{ asset('frontend/assets/images/product-image/1.webp') }}" alt="Modern Smart Phone">
                         </div>
                         <h2 class="tt-title"><a href="#">Modern Smart Phone</a></h2>
                     </div>
@@ -1428,7 +1428,7 @@
                     </div>
                     <div class="tt-modal-product">
                         <div class="tt-img">
-                            <img src="{{ asset('frontend/') }}assets/images/product-image/1.webp" alt="Modern Smart Phone">
+                            <img src="{{ asset('frontend/assets/images/product-image/1.webp') }}" alt="Modern Smart Phone">
                         </div>
                         <h2 class="tt-title"><a href="#">Modern Smart Phone</a></h2>
                     </div>
@@ -1439,14 +1439,14 @@
     <!-- Global Vendor, plugins JS -->
     <!-- JS Files
     ============================================ -->
-    <script src="{{ asset('frontend/') }}assets/js/vendor/bootstrap.bundle.min.js"></script>
-    <script src="{{ asset('frontend/') }}assets/js/vendor/jquery-3.6.0.min.js"></script>
-    <script src="{{ asset('frontend/') }}assets/js/vendor/jquery-migrate-3.3.2.min.js"></script>
-    <script src="{{ asset('frontend/') }}assets/js/vendor/modernizr-3.11.2.min.js"></script>
-    <script src="{{ asset('frontend/') }}assets/js/plugins/jquery.countdown.min.js"></script>
-    <script src="{{ asset('frontend/') }}assets/js/plugins/swiper-bundle.min.js"></script>
-    <script src="{{ asset('frontend/') }}assets/js/plugins/scrollUp.js"></script>
-    <script src="{{ asset('frontend/') }}assets/js/plugins/venobox.min.js"></script>
+    <script src="{{ asset('frontend/assets/js/vendor/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ asset('frontend/assets/js/vendor/jquery-3.6.0.min.js') }}"></script>
+    <script src="{{ asset('frontend/assets/js/vendor/jquery-migrate-3.3.2.min.js') }}"></script>
+    <script src="{{ asset('frontend/assets/js/vendor/modernizr-3.11.2.min.js') }}"></script>
+    <script src="{{ asset('frontend/assets/js/plugins/jquery.countdown.min.js') }}"></script>
+    <script src="{{ asset('frontend/assets/js/plugins/swiper-bundle.min.js') }}"></script>
+    <script src="{{ asset('frontend/assets/js/plugins/scrollUp.js') }}"></script>
+    <script src="{{ asset('frontend/assets/js/plugins/venobox.min.js') }}"></script>
     <script src="{{ asset('frontend/assets/js/plugins/jquery-ui.min.js') }}"></script>
     <script src="{{ asset('frontend/assets/js/plugins/mailchimp-ajax.js') }}"></script>
 
